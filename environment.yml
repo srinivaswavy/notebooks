@@ -5,8 +5,8 @@ channels:
   - pyg
   - conda-forge
 dependencies:
-  - python=3.9
-  - cudatoolkit=11.3
+  - python
+  - cudatoolkit
   - pytorch-scatter
   - pip
   - notebook
